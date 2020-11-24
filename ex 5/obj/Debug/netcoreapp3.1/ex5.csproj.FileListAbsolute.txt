@@ -1,0 +1,13 @@
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\bin\Debug\netcoreapp3.1\ex5.exe
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\bin\Debug\netcoreapp3.1\ex5.deps.json
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.json
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\bin\Debug\netcoreapp3.1\ex5.runtimeconfig.dev.json
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\bin\Debug\netcoreapp3.1\ex5.dll
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\bin\Debug\netcoreapp3.1\ex5.pdb
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\obj\Debug\netcoreapp3.1\ex5.csprojAssemblyReference.cache
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfoInputs.cache
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\obj\Debug\netcoreapp3.1\ex5.AssemblyInfo.cs
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\obj\Debug\netcoreapp3.1\ex5.csproj.CoreCompileInputs.cache
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\obj\Debug\netcoreapp3.1\ex5.dll
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\obj\Debug\netcoreapp3.1\ex5.pdb
+C:\Users\keziq\Desktop\rirt\Exercicios\ex 5\obj\Debug\netcoreapp3.1\ex5.genruntimeconfig.cache
